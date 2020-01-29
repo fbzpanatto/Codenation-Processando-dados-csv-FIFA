@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.538" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-01-24T17:15:47" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Fifa data processing" timestamp="2020-01-24T17:15:47" tests="6" file="/home/fbzpanatto/codenation/nodejs-1/test/submit.test.js" failures="0" time="0.538">
+    <testcase name="Fifa data processing q1" time="0.01" classname="q1">
+    </testcase>
+    <testcase name="Fifa data processing q2" time="0.415" classname="q2">
+    </testcase>
+    <testcase name="Fifa data processing q3" time="0.002" classname="q3">
+    </testcase>
+    <testcase name="Fifa data processing q4" time="0.077" classname="q4">
+    </testcase>
+    <testcase name="Fifa data processing q5" time="0.029" classname="q5">
+    </testcase>
+    <testcase name="Fifa data processing q6" time="0.005" classname="q6">
+    </testcase>
+  </testsuite>
+</testsuites>
